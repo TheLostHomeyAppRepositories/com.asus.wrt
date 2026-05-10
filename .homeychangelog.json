@@ -142,5 +142,8 @@
   },
   "3.2.2": {
     "en": "Fix for 6G devices and APs with api level 7."
+  },
+  "3.2.3": {
+    "en": "Updated package dependency to fix vulnerabilities."
   }
 }
